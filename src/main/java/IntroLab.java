@@ -41,7 +41,7 @@ public class IntroLab {
      * Make sure you document your method properly!
      */
     public static String rahma842(){
-        return printLabMessage("", "", true, "");
+        return printLabMessage("Hi", "Inaam", true, "You're Awesome!");
     }
 
     /**
