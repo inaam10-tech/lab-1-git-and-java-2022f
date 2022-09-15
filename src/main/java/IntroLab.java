@@ -64,6 +64,8 @@ public class IntroLab {
          */
         System.out.println(rahma842());
 
+        System.out.println("Done!");
+
 
     }
 
